@@ -2,6 +2,8 @@
 
 # Regex.m
 
+[AI:X](0rwx.com)
+
 A regular expression engine written entirely in Power Query M. It parses a
 pattern into an AST, compiles it to bytecode, and executes that bytecode in a
 backtracking virtual machine. The regex library needs no VBA, .NET regex,
