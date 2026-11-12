@@ -1,0 +1,3 @@
+tests/results*.json
+tests/generated/
+__pycache__/
